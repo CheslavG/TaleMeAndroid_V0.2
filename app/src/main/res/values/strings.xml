@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name" translatable="false">AndroidAudioRecorder</string>
+    <string name="aar_save">Save</string>
+    <string name="aar_paused">Paused</string>
+    <string name="aar_recording">Recording</string>
+    <string name="aar_playing">Playing</string>
+    <string name="listen_a_tale">Listen a tale</string>
+
+    <string name="TALE1">THERE were once two orphans, a brother and a sister, who lived alone in the old farmhouse where their fathers before them had lived for many generations. The brother\'s name was Osmo, the sister\'s Ilona. Osmo was an industrious youth, but the farm was small and barren and he was hard put to it to make a livelihood.</string>
+    <string name="TALE2">When Osmo, the Bear, was left alone in the net, he thrashed about this way and that until he was exhausted. Then he fell asleep.
+
+While he slept a host of little Mice began playing all over his great body.
+
+Their tiny feet tickled him and he woke with a start. The Mice scampered off, all but one that Osmo caught under his paw.
+
+“Tweek! Tweek!” the frightened little Mouse cried. “Let me go! Let me go! Please let me go! If you do I’ll reward you some day! I promise I will!”</string>
+    <string name="app_name_main">TaleMe</string>
+    <string name="app_name_player">Play</string>
+    <string name="app_name_recorder">Record</string>
+    <string name="app_name_karaoke">Karaoke</string>
+    <string name="play_str">PLAY Please</string>
+    <string name="pause_str">PAUSE</string>
+    <string name="listen_tale">Listen a Tale</string>
+    <string name="record_a_tale">Record a Tale</string>
+    <string name="start_karaoke">Start Karaoke</string>
+    <string name="start_record_recorder">Play_a_record</string>
+    <string name="stop_record_recorder">Stop_a_record</string>
+    <string name="start_play_recorder">Start_play_a_record</string>
+    <string name="stop_play_recorder">Stop_play_a_record</string>
+    <string name="recorder_header">This is a RECORDER</string>
+    <string name="recorder_player_header">This is a RECORDER PlAYER</string>
+
+
+</resources>
